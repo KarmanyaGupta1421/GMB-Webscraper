@@ -1,0 +1,52 @@
+Restaurants
+Grocery Stores
+Dentists
+Pharmacies
+Gas Stations
+Clothing Stores
+Beauty Salons
+Gyms
+Hospitals
+Libraries
+Furniture Stores
+Jewelry Stores
+Bakeries
+Ice Cream Shops
+Dry Cleaners
+Pet Stores
+Schools
+Real Estate Agencies
+Insurance Agencies
+Coffee Shops
+
+Convenience Stores
+Department Stores
+Home Improvement Stores
+Veterinary Clinics
+Medical Clinics
+Healthcare Facilities
+Banks
+Fast Food Restaurants
+Florists
+Laundromats
+Post Offices
+Health Food Stores
+Pet Grooming Services
+Daycare Centers
+Cafés
+Farmers Markets
+Breweries
+Art Galleries
+Hardware Stores
+Auto Repair Shops
+Bookstores
+Tea Houses
+Barber Shops
+Electronics Stores
+Law Firms
+Theaters
+Music Stores
+Fitness Centers
+Pizzerias
+Wine Shops
+Museums

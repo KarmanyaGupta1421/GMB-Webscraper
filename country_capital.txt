@@ -1,0 +1,39 @@
+Washington, D.C., United States
+London, United Kingdom
+Paris, France
+Berlin, Germany
+Rome, Italy
+Madrid, Spain
+Ottawa, Canada
+Canberra, Australia
+Tokyo, Japan
+Beijing, China
+New Delhi, India
+Moscow, Russia
+Brasília, Brazil
+Seoul, South Korea
+Mexico City, Mexico
+Buenos Aires, Argentina
+Ankara, Turkey
+Riyadh, Saudi Arabia
+Abu Dhabi, United Arab Emirates
+Jakarta, Indonesia
+Bangkok, Thailand
+Amsterdam, Netherlands
+Bern, Switzerland
+Stockholm, Sweden
+Oslo, Norway
+Copenhagen, Denmark
+Helsinki, Finland
+Athens, Greece
+Lisbon, Portugal
+Brussels, Belgium
+Vienna, Austria
+Dublin, Ireland
+Warsaw, Poland
+Bucharest, Romania
+Kuala Lumpur, Malaysia
+Singapore, Singapore
+Hanoi, Vietnam
+Manila, Philippines
+Cairo, Egypt
